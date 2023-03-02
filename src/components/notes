@@ -1,0 +1,34 @@
+EMS
+
+
+1 create a project - npx create-react-app name
+2 to run a project - npm start
+3 bootstrap - npm i react-bootsrap bootstrap
+4 bootswatch -for theme
+creating components
+5 Employee.js to create a array of employee data
+6 home.js to craete a home page
+7 icon - react icon github.io
+      npm i react-icons
+8 Routing - to render one page to other
+        npm i react-router-dom
+        import{BrowseRouter , Routes,Route}
+9 Route - declares an element that should be render at s        
+
+10 Add.js
+11 edit.js
+12 link -import {Linnk } fromm react-routeer-dom
+    <Link to={'/add'}><link/>
+13 Delete functionality
+14 useNavigate() - React Hook - Return an impertive method for changing the location . Used by s , but may also by       ******** either elements to
+15 Edit functionality
+16 Add functionality
+
+
+
+
+Hook Used in ems
+
+1 useState() - React Hook - To manage states and return a stateful value and an update function to update it
+2 useEffect() - React Hook - To manage side effect
+3 useNavigate() - React Hook - To access the react router history object and navigate to the other router
